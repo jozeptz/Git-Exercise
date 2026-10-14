@@ -24,12 +24,12 @@ c) Update this README.md file:
 
 👤 1. Student Information
 
-Name: *** Your full name *** 
-Email: *** Your email address *** 
+Name: Teerawat Janyasettakul
+Email: teerawat.janya@gmail.com
 
 🖼️ 2. Picture
 
-*** Place Quote.* here *** 
+![Quote image](Picture/Quote.png)
 
 🎞️ 3. Animation
 
