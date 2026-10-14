@@ -33,10 +33,10 @@ Email: teerawat.janya@gmail.com
 
 🎞️ 3. Animation
 
-*** Place GITGIF.* here *** 
+![Git animation](Animation/GITGIFa.gif)
 
 💬 4. Quote
 
-*** Read and Place TEXT from Quote.* here  ***
+Revision control gives us the confidence to move forward, because we can always trace out changes and return to what worked.
 
 🎬 5. Video Lecture
